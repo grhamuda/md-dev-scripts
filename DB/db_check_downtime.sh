@@ -1,9 +1,9 @@
 #!/bin/bash
 
-export HOST=<db_hostname>
-export PGUSERNAME=<username>
-export DATABASE=<db_name>
-export PGPASSWORD=<password>
+export PGPASSWORD="<password>"
+export HOST="<db_hostname>"
+export PGUSERNAME="<username>"
+export DATABASE="<db_name>"
 export PGCONNECT_TIMEOUT=5
 
 # Log file to store the downtime events, do not forget to create the file before running the script
