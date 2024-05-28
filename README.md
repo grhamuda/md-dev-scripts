@@ -4,7 +4,8 @@ Daily misc scripts to help backend engineer.
 
 ## AWS
 
-Scripts for AWS operations, such as EC2, ECS, RDS, etc.
+Scripts for AWS operations, such as EC2, ECS, RDS, etc. \
+This scripts should be executed in environment with AWS CLI installed and configured with access to the RDS instance (such as bastion instance).
 
 | Scripts Name                          | Description                                                                       |
 |---------------------------------------|-----------------------------------------------------------------------------------|
