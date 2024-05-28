@@ -1,0 +1,16 @@
+# Ignore Folders
+/.gradle/
+**/.idea/
+build/
+/.run/
+bin/
+.settings/
+# Ignore Files
+.DS_Store
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.class
+*.hprof
+
