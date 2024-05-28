@@ -2,6 +2,15 @@
 
 Daily misc scripts to help backend engineer.
 
+## AWS
+
+Scripts for AWS operations, such as EC2, ECS, RDS, etc.
+
+| Scripts Name                          | Description                                                                       |
+|---------------------------------------|-----------------------------------------------------------------------------------|
+| `rds_create_blue_green_deployment.sh` | To create blue-green deployment for RDS, can be use for RDS version major upgrade |
+| `rds_modify_db_parameter_group.sh`    | To modify RDS database parameter group, useful for changing RDS configuration     |
+
 ## DB
 
 Scripts for database operations, mostly for postgres.
