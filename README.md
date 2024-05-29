@@ -23,6 +23,14 @@ Scripts for redis operations using redis-cli commands, this scripts should be ex
 |----------------------------------|--------------------------------------------------------------|
 | `redis_delete_multiple_cache.sh` | To delete multiple cache in redis by using cache key pattern |
 
+## CURL
+
+Miscellaneous scripts for curl operations.
+
+| Scripts Name                         | Description                                                                                                 |
+|--------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| `springboot_actuator_healthcheck.sh` | To hit spring boot service actuator healthcheck endpoint, return healthcheck status if http response is 200 |
+
 ## DB
 
 Scripts for database operations, mostly for postgres.
